@@ -948,18 +948,21 @@ ul.course-category li{width: 100%}
 
 .tab2position {
   position: relative;
-  left: 40px;
+  left: 20px;
   
 }
 
 .tab3position {
   position: relative;
-  left: 900px;
+  left: 960px;
  
   
 }
 
 .hr11 {
   width:100%;
-  top:50px;
+  position: relative;
+  top:0px;
+  color:black;
+  margin:0px;
 }
