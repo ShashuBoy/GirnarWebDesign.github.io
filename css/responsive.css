@@ -964,8 +964,12 @@ ul.course-category li{width: 100%}
   width:90%;
   position: relative;
   float:right;
-  top:-13px;
+  top:-15px;
   left:140px;
   color:#fff;
   margin:0px;
+}
+
+.god{
+  overflow-x: hidden;
 }
